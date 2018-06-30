@@ -8,7 +8,7 @@ This CoC aims to welcome people regardless of
 * race
 * national origin
 * sexual orientation
-* sex
+* gender
 * gender identity and expression
 * age
 * body size
