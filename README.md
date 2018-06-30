@@ -2,6 +2,7 @@
 These rules are adapted from the [Citizen Code of Conduct](http://citizencodeofconduct.org/), [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct), [WitChat](http://witchat.github.io/), and [WeAllJS](https://wealljs.org/code-of-conduct)
 
 They are formatted to fit into the new group Rules feature in Facebook group, which allows you to define 10 rules with descriptions.
+![A screenshot of the interface for adding rules](rules.png?raw=true "Rules in Facebook Groups")
 
 
 # Groups
