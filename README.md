@@ -34,11 +34,11 @@ This includes, but is not limited to offensive comments related to *insert list 
 
 This includes, but is not limited to threats of violence, deliberate misgendering, intimidation, unwelcome sexual attention., and stalking. 
 
-## 4 Report violations of these rules
+## 4: Report violations of these rules
 
 Please PM or tag the admin team to let them know
 
-## 5 Consequences of violating this rules
+## 5: Consequences of violating this rules
 
 Depending on the severity of the violation, we will warn or remove the offending member
 
