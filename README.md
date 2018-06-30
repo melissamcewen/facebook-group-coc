@@ -34,7 +34,7 @@ This includes, but is not limited to offensive comments related to *insert list 
 
 This includes, but is not limited to threats of violence, deliberate misgendering, intimidation, unwelcome sexual attention., and stalking. 
 
-## 6: We prioritize marginalized people’s safety over privileged people’s comfort
+## 4: We prioritize marginalized people’s safety over privileged people’s comfort
 
 This means we will not act on complaints of things like "reverse isms" ("reverse racism", "reverse sexism", "cisphobia") and content that privileged people feel uncomfortable with (such as criticisms of racist/sexist/transphobic/classist ideas and behavior)
 
