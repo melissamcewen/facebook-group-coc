@@ -3,6 +3,7 @@ These rules are adapted from the [Citizen Code of Conduct](http://citizencodeofc
 
 They are formatted to fit into the new group Rules feature in Facebook group, which allows you to define 10 rules with descriptions.
 
+
 # Groups
 This CoC aims to welcome people regardless of 
 * race
